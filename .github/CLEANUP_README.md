@@ -31,7 +31,7 @@ Steps:
 
 ### 3. Configure Whitelist
 
-Edit `.github/repo-whitelist.yml` and add repositories you want to keep:
+Edit `repo-whitelist.yml` and add repositories you want to keep:
 
 ```yaml
 # Repository Whitelist
@@ -125,7 +125,7 @@ The `REPO_CLEANUP_TOKEN` secret is not set or is named incorrectly. Follow setup
 
 ### "Whitelist file not found"
 
-The `.github/repo-whitelist.yml` file is missing. Commit this file to your repository.
+The `repo-whitelist.yml` file is missing. Commit this file to your repository.
 
 ### "Request failed with status 403"
 
@@ -147,5 +147,5 @@ The repository might already be deleted, or the token doesn't have access to it.
 
 - `.github/workflows/cleanup-repos.yml` - GitHub Actions workflow definition
 - `.github/scripts/cleanup-repos.js` - Deletion logic script
-- `.github/repo-whitelist.yml` - List of repositories to keep
+- `repo-whitelist.yml` - List of repositories to keep
 - `.github/CLEANUP_README.md` - This documentation

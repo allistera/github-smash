@@ -123,7 +123,7 @@ function parseYAML(content) {
 }
 
 function loadWhitelist() {
-  const whitelistPath = path.join(__dirname, '..', 'repo-whitelist.yml');
+  const whitelistPath = path.join(__dirname, '..', '..', 'repo-whitelist.yml');
 
   if (!fs.existsSync(whitelistPath)) {
     console.error(`Error: Whitelist file not found at ${whitelistPath}`);
