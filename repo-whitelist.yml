@@ -8,3 +8,4 @@ repositories:
   - allistera/infinitywave.design
   - allistera/allistera.github.io
   - allistera/cloudflare-neon-email
+  - allistera/dynatrace-slo-terraform
