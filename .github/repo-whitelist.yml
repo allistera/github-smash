@@ -1,0 +1,8 @@
+# Repository Whitelist
+# Add repository names in 'owner/repo' format
+# These repositories will NOT be deleted
+
+repositories:
+  - username/repo-to-keep-1
+  - username/repo-to-keep-2
+  - username/important-project
