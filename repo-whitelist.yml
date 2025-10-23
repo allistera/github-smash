@@ -3,6 +3,8 @@
 # These repositories will NOT be deleted
 
 repositories:
-  - username/repo-to-keep-1
-  - username/repo-to-keep-2
-  - username/important-project
+  - allistera/github-smash
+  - allistera/homey-mcp-server
+  - allistera/infinitywave.design
+  - allistera/allistera.github.io
+  - allistera/cloudflare-neon-email
