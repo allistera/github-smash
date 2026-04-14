@@ -4,8 +4,11 @@
 
 repositories:
   - allistera/github-smash
-  - allistera/homey-mcp-server
   - allistera/infinitywave.design
   - allistera/allistera.github.io
-  - allistera/cloudflare-neon-email
-  - allistera/dynatrace-slo-terraform
+  - allistera/email-viewer
+  - allistera/daily-news
+  - allistera/Bookmark-AI
+  - allistera/light_manager
+  - allistera/gemini-mac
+  - allistera/todoist-automator
